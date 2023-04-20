@@ -1,0 +1,71 @@
+.welcomepage-container {
+    min-height: 100vh;
+  }
+  .welcomepage-welcomepage {
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .welcomepage-backgroundshape {
+    top: 400px;
+    left: 192px;
+    width: 1216px;
+    height: 800px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 96px;
+  }
+  .welcomepage-logo {
+    top: 358px;
+    left: 358px;
+    width: 884px;
+    height: 884px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .welcomepage-text {
+    top: 446px;
+    left: 553px;
+    color: rgba(255, 255, 255, 1);
+    width: 495px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: center;
+    font-family: Coda Caption;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .welcomepage-text5 {
+    top: 1024px;
+    left: 644px;
+    color: rgba(255, 255, 255, 1);
+    width: 312px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: center;
+    font-family: Coda Caption;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
